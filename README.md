@@ -1,4 +1,4 @@
-asdfl;kja;sdlkjf;alskdjf;alkjsweoriuweqproiuqweproiquwelaksdjf;alskdjf;asdlkjfa;sdlkfj;lkjas;dlfkj;laksdjf# JavaScript Arrays
+Arrays
 
 ## Objectives
 
